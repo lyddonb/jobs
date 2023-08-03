@@ -1,0 +1,8 @@
+# Configs
+.env
+
+# Python
+.python-version
+
+# IDEs
+*.code-workspace
